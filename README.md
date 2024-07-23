@@ -9,7 +9,7 @@ I'm thrilled to announce the launch of my brand-new portfolio site, designed to 
 💡 Tailwind CSS
 
 DO CHECK IT ❤️ 
-✅ Live Link: https://lnkd.in/gKd8eFea
+✅ Live Link: https://669ff053662a1205b786612b--cozy-griffin-4d737c.netlify.app/
 
 ✅ GitHub Repo Link: https://lnkd.in/gPVwC2Sp
 
